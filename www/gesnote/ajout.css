@@ -1,0 +1,16 @@
+
+form,.error{
+    font-family: calibri;
+    font-size: 18px;
+}
+.error{
+  color:red;
+    font-weight: bold;
+}
+.info{
+border: simple;
+}
+form{
+position: relative;
+top:200px;
+}
